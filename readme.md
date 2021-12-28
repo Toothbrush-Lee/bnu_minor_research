@@ -14,3 +14,5 @@
 本地运行环境为Ubuntu20.04，Python 3.8.10。
 
 *（代码中部分注释为调试遗留痕迹，为便于日后调试，予以保留）*
+
+*（代码同步自https://gitee.com/gly11/bnu_minor_research）*
